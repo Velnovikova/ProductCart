@@ -1,0 +1,29 @@
+
+[
+    {
+        "name":"Milk",
+        "description":"good for bones and strength so needed in our life",
+        "id":0,
+        "price":5,
+        "amount":1,
+        "picture":"https://th.bing.com/th/id/R.96c07635579bb3b46a0ab614bbc60908?rik=V%2fITVW5YU8X%2bbg&riu=http%3a%2f%2fbm-moloko.ru%2fwp-content%2fuploads%2f2017%2f08%2fMoloko-1.jpg&ehk=2R7tC1oWF4WR9C3XpoIrKWmi%2bZYrQJScVyVR5zFn0Ic%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name":"Water",
+        "description":"water is always the best drink",
+        "id":1,
+        "price":3,
+        "amount":1,
+        "picture":"https://th.bing.com/th/id/OIP.sBOjLhPyz209w2To8PT1ewHaGa?w=182&h=158&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+        "name":"Honey",
+        "description":"spring honey collected by bees from chamomile and linden",
+        "id":2,
+        "price":12,
+        "amount":1,
+        "picture":"https://th.bing.com/th/id/OIP.4pDN2Vv4SH5dfZfvcSQA4QHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    }
+]
+
+
